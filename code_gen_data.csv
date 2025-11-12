@@ -1,0 +1,241 @@
+Task id ,Task Language,Techniques ,Model ,CodeBleu
+636766a91a6d9265ec0175c2,Java,Naive ,Claude ,1
+636766f11a6d9265ec017658,Java,Naive ,Claude ,0.8207
+636767041a6d9265ec017911,Java,Naive ,Claude ,0.7899
+636767041a6d9265ec01790f,Java,Naive ,Claude,0.8767
+6367676c1a6d9265ec01820b,Java,Naive ,Claude,0.8287
+636767691a6d9265ec0181a6,Java,Naive ,Claude,0.79
+636767dc1a6d9265ec0186be,Java,Naive ,Claude,0.733
+636767841a6d9265ec0183e8,Java,Naive ,Claude,0.5586
+636766a91a6d9265ec0175ae,Java,Naive ,Claude,0.8028
+636767031a6d9265ec0178dd,Java,Naive ,Claude,0.8039
+6367667d1a6d9265ec01741d,Java,Naive ,Claude,0.821
+636767121a6d9265ec017b0a,Java,Naive ,Claude,0.8189
+636767a41a6d9265ec01856c,Java,Naive ,Claude,0.7726
+6367674a1a6d9265ec017da9,Java,Naive ,Claude,0.7147
+636767a41a6d9265ec01857e,Java,Naive ,Claude,0.9234
+6306292a52e177c0ba469f41,Python,Naive ,Claude,0.7981
+62b45665d7d32e5b55cc8365,Python,Naive ,Claude,0.4797
+62b87af69a0c4fa8b80b351a,Python,Naive ,Claude,0.756
+62b86707b4d922cb0e688c2a,Python,Naive ,Claude,0.5537
+62ece4992e6aefcf4aabbd8a,Python,Naive ,Claude,0.4125
+6306092d73426c38ae68ad06,Python,Naive ,Claude,0.8054
+62b87d24d292efb640a5566d,Python,Naive ,Claude,0.6589
+62b4567ed7d32e5b55cc83d9,Python,Naive ,Claude,0.3838
+62ece4992e6aefcf4aabbd84,Python,Naive ,Claude,0.6157
+62b87d23d292efb640a55667,Python,Naive ,Claude,0.6967
+6306093273426c38ae68ad15,Python,Naive ,Claude,0.1277
+62b8d23948ba5a41d1c3f498,Python,Naive ,Claude,0.6683
+62b87d23d292efb640a5566b,Python,Naive ,Claude,0.3015
+62b463303879012d19481579,Python,Naive ,Claude,0.5671
+62b4631b3879012d194814dd,Python,Naive ,Claude,0.4632
+636766a91a6d9265ec0175c2,Java,Chain of Thought,Claude,1
+636766f11a6d9265ec017658,Java,Chain of Thought,Claude,0.8207
+636767041a6d9265ec017911,Java,Chain of Thought,Claude,0.7899
+636767041a6d9265ec01790f,Java,Chain of Thought,Claude,0.8767
+6367676c1a6d9265ec01820b,Java,Chain of Thought,Claude,0.8287
+636767691a6d9265ec0181a6,Java,Chain of Thought,Claude,0.79
+636767dc1a6d9265ec0186be,Java,Chain of Thought,Claude,0.733
+636767841a6d9265ec0183e8,Java,Chain of Thought,Claude,0.5586
+636766a91a6d9265ec0175ae,Java,Chain of Thought,Claude,0.8028
+636767031a6d9265ec0178dd,Java,Chain of Thought,Claude,0.8039
+6367667d1a6d9265ec01741d,Java,Chain of Thought,Claude,0.821
+636767121a6d9265ec017b0a,Java,Chain of Thought,Claude,0.8189
+636767a41a6d9265ec01856c,Java,Chain of Thought,Claude,0.7726
+6367674a1a6d9265ec017da9,Java,Chain of Thought,Claude,0.714
+636767a41a6d9265ec01857e,Java,Chain of Thought,Claude,0.9234
+6306292a52e177c0ba469f41,Python,Chain of Thought,Claude,0.7981
+62b45665d7d32e5b55cc8365,Python,Chain of Thought,Claude,0.4635
+62b87af69a0c4fa8b80b351a,Python,Chain of Thought,Claude,0.756
+62b86707b4d922cb0e688c2a,Python,Chain of Thought,Claude,0.5537
+62ece4992e6aefcf4aabbd8a,Python,Chain of Thought,Claude,0.4125
+6306092d73426c38ae68ad06,Python,Chain of Thought,Claude,0.8054
+62b87d24d292efb640a5566d,Python,Chain of Thought,Claude,0.6589
+62b4567ed7d32e5b55cc83d9,Python,Chain of Thought,Claude,0.3838
+62ece4992e6aefcf4aabbd84,Python,Chain of Thought,Claude,0.6157
+62b87d23d292efb640a55667,Python,Chain of Thought,Claude,0.6967
+6306093273426c38ae68ad15,Python,Chain of Thought,Claude,0.1277
+62b8d23948ba5a41d1c3f498,Python,Chain of Thought,Claude,0.6683
+62b87d23d292efb640a5566b,Python,Chain of Thought,Claude,0.3015
+62b463303879012d19481579,Python,Chain of Thought,Claude,0.5671
+62b4631b3879012d194814dd,Python,Chain of Thought,Claude,0.4287
+636766a91a6d9265ec0175c2,Java,Persona,Claude,1
+636766f11a6d9265ec017658,Java,Persona,Claude,0.8207
+636767041a6d9265ec017911,Java,Persona,Claude,0.7195
+636767041a6d9265ec01790f,Java,Persona,Claude,0.8767
+6367676c1a6d9265ec01820b,Java,Persona,Claude,0.8287
+636767691a6d9265ec0181a6,Java,Persona,Claude,0.79
+636767dc1a6d9265ec0186be,Java,Persona,Claude,0.733
+636767841a6d9265ec0183e8,Java,Persona,Claude,0.5586
+636766a91a6d9265ec0175ae,Java,Persona,Claude,0.8028
+636767031a6d9265ec0178dd,Java,Persona,Claude,0.8039
+6367667d1a6d9265ec01741d,Java,Persona,Claude,0.821
+636767121a6d9265ec017b0a,Java,Persona,Claude,0.8189
+636767a41a6d9265ec01856c,Java,Persona,Claude,0.7726
+6367674a1a6d9265ec017da9,Java,Persona,Claude,0.7147
+636767a41a6d9265ec01857e,Java,Persona,Claude,0.9234
+6306292a52e177c0ba469f41,Python,Persona,Claude,0.7981
+62b45665d7d32e5b55cc8365,Python,Persona,Claude,0.4797
+62b87af69a0c4fa8b80b351a,Python,Persona,Claude,0.756
+62b86707b4d922cb0e688c2a,Python,Persona,Claude,0.5537
+62ece4992e6aefcf4aabbd8a,Python,Persona,Claude,0.4125
+6306092d73426c38ae68ad06,Python,Persona,Claude,0.8054
+62b87d24d292efb640a5566d,Python,Persona,Claude,0.6589
+62b4567ed7d32e5b55cc83d9,Python,Persona,Claude,0.3838
+62ece4992e6aefcf4aabbd84,Python,Persona,Claude,0.6157
+62b87d23d292efb640a55667,Python,Persona,Claude,0.6967
+6306093273426c38ae68ad15,Python,Persona,Claude,0.1277
+62b8d23948ba5a41d1c3f498,Python,Persona,Claude,0.6683
+62b87d23d292efb640a5566b,Python,Persona,Claude,0.2979
+62b463303879012d19481579,Python,Persona,Claude,0.5671
+62b4631b3879012d194814dd,Python,Persona,Claude,0.3808
+636766a91a6d9265ec0175c2,Java,Few Shot,Claude,1
+636766f11a6d9265ec017658,Java,Few Shot ,Claude,0.8207
+636767041a6d9265ec017911,Java,Few Shot,Claude,0.7899
+636767041a6d9265ec01790f,Java,Few Shot,Claude,0.8767
+6367676c1a6d9265ec01820b,Java,Few Shot,Claude,0.8287
+636767691a6d9265ec0181a6,Java,Few Shot,Claude,0.79
+636767dc1a6d9265ec0186be,Java,Few Shot,Claude,0.733
+636767841a6d9265ec0183e8,Java,Few Shot,Claude,0.5586
+636766a91a6d9265ec0175ae,Java,Few Shot,Claude,0.8028
+636767031a6d9265ec0178dd,Java,Few Shot,Claude,0.8039
+6367667d1a6d9265ec01741d,Java,Few Shot,Claude,0.821
+636767121a6d9265ec017b0a,Java,Few Shot,Claude,0.8189
+636767a41a6d9265ec01856c,Java,Few Shot,Claude,0.7726
+6367674a1a6d9265ec017da9,Java,Few Shot,Claude,0.7147
+636767a41a6d9265ec01857e,Java,Few Shot,Claude,0.9234
+6306292a52e177c0ba469f41,Python,Few Shot,Claude,0.7981
+62b45665d7d32e5b55cc8365,Python,Few Shot,Claude,0.4797
+62b87af69a0c4fa8b80b351a,Python,Few Shot,Claude,0.756
+62b86707b4d922cb0e688c2a,Python,Few Shot,Claude,0.5537
+62ece4992e6aefcf4aabbd8a,Python,Few Shot,Claude,0.4125
+6306092d73426c38ae68ad06,Python,Few Shot,Claude,0.8054
+62b87d24d292efb640a5566d,Python,Few Shot,Claude,0.6589
+62b4567ed7d32e5b55cc83d9,Python,Few Shot,Claude,0.3838
+62ece4992e6aefcf4aabbd84,Python,Few Shot,Claude,0.6157
+62b87d23d292efb640a55667,Python,Few Shot,Claude,0.6967
+6306093273426c38ae68ad15,Python,Few Shot,Claude,0.1277
+62b8d23948ba5a41d1c3f498,Python,Few Shot,Claude,0.6683
+62b87d23d292efb640a5566b,Python,Few Shot,Claude,0.2979
+62b463303879012d19481579,Python,Few Shot,Claude,0.5671
+62b4631b3879012d194814dd,Python,Few Shot,Claude,0.4287
+636766a91a6d9265ec0175c2 ,Java,Naive,ChatGPT,0.2701
+636766f11a6d9265ec017658 ,Java,Naive,ChatGPT,0.3625
+636767041a6d9265ec017911 ,Java,Naive,ChatGPT,0.2753
+636767041a6d9265ec01790f ,Java,Naive,ChatGPT,0.148
+6367676c1a6d9265ec01820b ,Java,Naive,ChatGPT,0.357
+636767691a6d9265ec0181a6 ,Java,Naive,ChatGPT,0.2661
+636767dc1a6d9265ec0186be ,Java,Naive,ChatGPT,0.1814
+636767841a6d9265ec0183e8 ,Java,Naive,ChatGPT,0.0829
+636766a91a6d9265ec0175ae ,Java,Naive,ChatGPT,0.193
+636767031a6d9265ec0178dd ,Java,Naive,ChatGPT,0.2502
+6367667d1a6d9265ec01741d ,Java,Naive,ChatGPT,0.2331
+636767121a6d9265ec017b0a ,Java,Naive,ChatGPT,0.2302
+636767a41a6d9265ec01856c ,Java,Naive,ChatGPT,0.2889
+6367674a1a6d9265ec017da9 ,Java,Naive,ChatGPT,0.1529
+636767a41a6d9265ec01857e ,Java,Naive,ChatGPT,0.286
+6306292a52e177c0ba469f41 ,Python,Naive,ChatGPT,0.3004
+62b45665d7d32e5b55cc8365 ,Python,Naive,ChatGPT,0.1862
+62b87af69a0c4fa8b80b351a ,Python,Naive,ChatGPT,0.2374
+62b86707b4d922cb0e688c2a ,Python,Naive,ChatGPT,0.3408
+62ece4992e6aefcf4aabbd8a ,Python,Naive,ChatGPT,0.2306
+6306092d73426c38ae68ad06 ,Python,Naive,ChatGPT,0.2295
+62b87d24d292efb640a5566d ,Python,Naive,ChatGPT,0.3231
+62b4567ed7d32e5b55cc83d9 ,Python,Naive,ChatGPT,0.1294
+62ece4992e6aefcf4aabbd84 ,Python,Naive,ChatGPT,0.3647
+62b87d23d292efb640a55667 ,Python,Naive,ChatGPT,0.3008
+6306093273426c38ae68ad15 ,Python,Naive,ChatGPT,0.1224
+62b8d23948ba5a41d1c3f498 ,Python,Naive,ChatGPT,0.1777
+62b87d23d292efb640a5566b ,Python,Naive,ChatGPT,0.2396
+62b463303879012d19481579 ,Python,Naive,ChatGPT,0.1392
+62b4631b3879012d194814dd ,Python,Naive,ChatGPT,0.11
+636766a91a6d9265ec0175c2 ,Java,Chain of Thought,ChatGPT,0.2694
+636766f11a6d9265ec017658 ,Java,Chain of Thought,ChatGPT,0.6204
+636767041a6d9265ec017911 ,Java,Chain of Thought,ChatGPT,0.368
+636767041a6d9265ec01790f ,Java,Chain of Thought,ChatGPT,0.5052
+6367676c1a6d9265ec01820b ,Java,Chain of Thought,ChatGPT,0.6251
+636767691a6d9265ec0181a6 ,Java,Chain of Thought,ChatGPT,0.4957
+636767dc1a6d9265ec0186be ,Java,Chain of Thought,ChatGPT,0.3209
+636767841a6d9265ec0183e8 ,Java,Chain of Thought,ChatGPT,0.3037
+636766a91a6d9265ec0175ae ,Java,Chain of Thought,ChatGPT,0.5097
+636767031a6d9265ec0178dd ,Java,Chain of Thought,ChatGPT,0.322
+6367667d1a6d9265ec01741d ,Java,Chain of Thought,ChatGPT,0.3865
+636767121a6d9265ec017b0a ,Java,Chain of Thought,ChatGPT,0.3422
+636767a41a6d9265ec01856c ,Java,Chain of Thought,ChatGPT,0.421
+6367674a1a6d9265ec017da9 ,Java,Chain of Thought,ChatGPT,0.2658
+636767a41a6d9265ec01857e ,Java,Chain of Thought,ChatGPT,1
+6306292a52e177c0ba469f41 ,Python,Chain of Thought,ChatGPT,0.3906
+62b45665d7d32e5b55cc8365 ,Python,Chain of Thought,ChatGPT,0.1911
+62b87af69a0c4fa8b80b351a ,Python,Chain of Thought,ChatGPT,0.4078
+62b86707b4d922cb0e688c2a ,Python,Chain of Thought,ChatGPT,0.4916
+62ece4992e6aefcf4aabbd8a ,Python,Chain of Thought,ChatGPT,0.2485
+6306092d73426c38ae68ad06 ,Python,Chain of Thought,ChatGPT,0.3897
+62b87d24d292efb640a5566d ,Python,Chain of Thought,ChatGPT,0.457
+62b4567ed7d32e5b55cc83d9 ,Python,Chain of Thought,ChatGPT,0.1658
+62ece4992e6aefcf4aabbd84 ,Python,Chain of Thought,ChatGPT,0.4993
+62b87d23d292efb640a55667 ,Python,Chain of Thought,ChatGPT,0.4122
+6306093273426c38ae68ad15 ,Python,Chain of Thought,ChatGPT,0.1576
+62b8d23948ba5a41d1c3f498 ,Python,Chain of Thought,ChatGPT,0.4756
+62b87d23d292efb640a5566b ,Python,Chain of Thought,ChatGPT,0.2085
+62b463303879012d19481579 ,Python,Chain of Thought,ChatGPT,0.1596
+62b4631b3879012d194814dd ,Python,Chain of Thought,ChatGPT,0.14
+636766a91a6d9265ec0175c2 ,Java,Persona,ChatGPT,0.3226
+636766f11a6d9265ec017658 ,Java,Persona,ChatGPT,0.578
+636767041a6d9265ec017911 ,Java,Persona,ChatGPT,0.3397
+636767041a6d9265ec01790f ,Java,Persona,ChatGPT,0.6112
+6367676c1a6d9265ec01820b ,Java,Persona,ChatGPT,0.6356
+636767691a6d9265ec0181a6 ,Java,Persona,ChatGPT,0.4714
+636767dc1a6d9265ec0186be ,Java,Persona,ChatGPT,0.3452
+636767841a6d9265ec0183e8 ,Java,Persona,ChatGPT,0.1701
+636766a91a6d9265ec0175ae ,Java,Persona,ChatGPT,0.5826
+636767031a6d9265ec0178dd ,Java,Persona,ChatGPT,0.1799
+6367667d1a6d9265ec01741d ,Java,Persona,ChatGPT,0.4078
+636767121a6d9265ec017b0a ,Java,Persona,ChatGPT,0.2754
+636767a41a6d9265ec01856c ,Java,Persona,ChatGPT,0.4561
+6367674a1a6d9265ec017da9 ,Java,Persona,ChatGPT,0.2097
+636767a41a6d9265ec01857e ,Java,Persona,ChatGPT,0.8499
+6306292a52e177c0ba469f41 ,Python,Persona,ChatGPT,0.5122
+62b45665d7d32e5b55cc8365 ,Python,Persona,ChatGPT,0.1811
+62b87af69a0c4fa8b80b351a ,Python,Persona,ChatGPT,0.2385
+62b86707b4d922cb0e688c2a ,Python,Persona,ChatGPT,0.2821
+62ece4992e6aefcf4aabbd8a ,Python,Persona,ChatGPT,0.2659
+6306092d73426c38ae68ad06 ,Python,Persona,ChatGPT,0.2034
+62b87d24d292efb640a5566d ,Python,Persona,ChatGPT,0.3889
+62b4567ed7d32e5b55cc83d9 ,Python,Persona,ChatGPT,0.1515
+62ece4992e6aefcf4aabbd84 ,Python,Persona,ChatGPT,0.3031
+62b87d23d292efb640a55667 ,Python,Persona,ChatGPT,0.1747
+6306093273426c38ae68ad15 ,Python,Persona,ChatGPT,0.1493
+62b8d23948ba5a41d1c3f498 ,Python,Persona,ChatGPT,0.0799
+62b87d23d292efb640a5566b ,Python,Persona,ChatGPT,0.2092
+62b463303879012d19481579 ,Python,Persona,ChatGPT,0.1396
+62b4631b3879012d194814dd ,Python,Persona,ChatGPT,0.0958
+636766a91a6d9265ec0175c2 ,Java,Few Shot,ChatGPT,0.3676
+636766f11a6d9265ec017658 ,Java,Few Shot ,ChatGPT,0.6429
+636767041a6d9265ec017911 ,Java,Few Shot,ChatGPT,0.2948
+636767041a6d9265ec01790f ,Java,Few Shot,ChatGPT,0.605
+6367676c1a6d9265ec01820b ,Java,Few Shot,ChatGPT,0.5108
+636767691a6d9265ec0181a6 ,Java,Few Shot,ChatGPT,0.5096
+636767dc1a6d9265ec0186be ,Java,Few Shot,ChatGPT,0.1918
+636767841a6d9265ec0183e8 ,Java,Few Shot,ChatGPT,0.1548
+636766a91a6d9265ec0175ae ,Java,Few Shot,ChatGPT,0.4862
+636767031a6d9265ec0178dd ,Java,Few Shot,ChatGPT,0.1871
+6367667d1a6d9265ec01741d ,Java,Few Shot,ChatGPT,0.4492
+636767121a6d9265ec017b0a ,Java,Few Shot,ChatGPT,0.2675
+636767a41a6d9265ec01856c ,Java,Few Shot,ChatGPT,0.3852
+6367674a1a6d9265ec017da9 ,Java,Few Shot,ChatGPT,0.1862
+636767a41a6d9265ec01857e ,Java,Few Shot,ChatGPT,1
+6306292a52e177c0ba469f41 ,Python,Few Shot,ChatGPT,0.3849
+62b45665d7d32e5b55cc8365 ,Python,Few Shot,ChatGPT,0.1289
+62b87af69a0c4fa8b80b351a ,Python,Few Shot,ChatGPT,0.3505
+62b86707b4d922cb0e688c2a ,Python,Few Shot,ChatGPT,0.5271
+62ece4992e6aefcf4aabbd8a ,Python,Few Shot,ChatGPT,0.2979
+6306092d73426c38ae68ad06 ,Python,Few Shot,ChatGPT,0.3171
+62b87d24d292efb640a5566d ,Python,Few Shot,ChatGPT,0.3632
+62b4567ed7d32e5b55cc83d9 ,Python,Few Shot,ChatGPT,0.1533
+62ece4992e6aefcf4aabbd84 ,Python,Few Shot,ChatGPT,0.4617
+62b87d23d292efb640a55667 ,Python,Few Shot,ChatGPT,0.4097
+6306093273426c38ae68ad15 ,Python,Few Shot,ChatGPT,0.1179
+62b8d23948ba5a41d1c3f498 ,Python,Few Shot,ChatGPT,0.3293
+62b87d23d292efb640a5566b ,Python,Few Shot,ChatGPT,0.2031
+62b463303879012d19481579 ,Python,Few Shot,ChatGPT,0.0951
+62b4631b3879012d194814dd ,Python,Few Shot,ChatGPT,0.0967
