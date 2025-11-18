@@ -1,4 +1,4 @@
-# Prompt Code Generation Analysis
+# LLM Code Generation: Prompt Analysis
 
 This notebook analyzes how different prompting techniques affect AI code generation quality, using CodeBLEU scores for Anthropic Claude Sonnet 4.5 and OpenAI ChatGPT 5.0. :contentReference[oaicite:0]{index=0}  
 
